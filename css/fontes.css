@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'GAMECUBEN';
+    src: url('../fontes/16284_GAMECUBENDualSet.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'MechaItalic';
+    src: url('../fontes/24914_MechaItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'Mecha';
+    src: url('../fontes/24915_Mecha.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'BIKES';
+    src: url('../fontes/BIKES.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'CYCLING';
+    src: url('../fontes/CYCLING_.TTF') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'monster-bike';
+    src: url('../fontes/monster-bike.otf') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'OneDirection';
+    src: url('../fontes/OneDirection.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'Parisienne';
+    src: url('../fontes/Parisienne-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+
+/* .f1 {
+    font-family: 'GAMECUBEN';
+}
+.f2 {
+    font-family: 'Mecha';
+}
+.f3 {
+    font-family: 'MechaItalic';
+} */
+
+h1 {
+    font-size: 50px;
+    text-shadow: -5px 5px 2px whitesmoke;
+    text-align: center;
+    color: black;
+}
+.f4 {
+    font-family: 'Parisienne';
+}
+.f10 {
+    font-family: 'monster-bike';
+}
+.f6 {
+    font-family: 'OneDirection';
+    font-size: 25px;
+}
+/* .f7 {
+    font-family: 'BIKES';
+}
+.f8 {
+    font-family: 'CYCLING';
+} */

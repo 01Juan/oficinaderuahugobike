@@ -1,0 +1,19 @@
+body {
+   background: linear-gradient(0deg, rgb(40, 114, 16) 0% 5%, #ff8400 20% 65%, skyblue 80% 100%);
+   
+   padding: 10px 10px 10px 10px;
+   height: 100vh;
+   width: 100vw;
+   /* background: linear-gradient(358.54deg,rgba(255, 166, 0, 0.75) 0% 20%, rgb(0, 0, 255, 0.50) 50% 100%); */
+   background-repeat: no-repeat;
+
+}
+
+.back-img {
+   background-image: url("../imagens/2.png");
+   
+  background-size: 100px;
+  opacity : 1;
+  height: calc(100vh - 20px);
+  width: calc(100vw - 20px);
+}
