@@ -11,9 +11,9 @@ body {
 
 .back-img {
    background-image: url("../imagens/2.png");
-   
-  background-size: 100px;
-  opacity : 1;
-  height: calc(100vh - 20px);
-  width: calc(100vw - 20px);
+
+   background-size: 100px;
+   opacity : 1;
+   height: calc(100vh - 20px);
+   width: calc(100vw - 20px);
 }

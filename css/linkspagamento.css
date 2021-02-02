@@ -1,0 +1,10 @@
+.linksPagamento {
+    display: grid;
+    grid-auto-flow: column;
+    
+    grid-template: repeat(8, 30px)  / auto auto auto auto;
+    text-align: center;
+}
+.tituloListaPagamento{
+    grid-area: 1 / 1 / 1 / 5;
+}
