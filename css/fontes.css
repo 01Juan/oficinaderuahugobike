@@ -16,7 +16,7 @@
 }
 @font-face {
     font-family: 'CYCLING';
-    src: url('../fontes/CYCLING_.TTF') format('truetype'); /* Safari, Android, iOS */
+    src: url('../fontes/CYCLING_.TTF') format('truetype') type(); /* Safari, Android, iOS */
 }
 @font-face {
     font-family: 'monster-bike';
@@ -46,7 +46,7 @@
 
 h1 {
     font-size: 50px;
-    text-shadow: -5px 5px 2px whitesmoke;
+    text-shadow: -4px 4px 2px whitesmoke;
     text-align: center;
     color: black;
 }
@@ -54,7 +54,7 @@ h1 {
     font-family: 'Parisienne';
 }
 .f10 {
-    font-family: 'monster-bike';
+    font-family: 'monster-bike', serif;
 }
 .f6 {
     font-family: 'OneDirection';

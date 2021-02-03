@@ -1,10 +1,46 @@
 .linksPagamento {
     display: grid;
     grid-auto-flow: column;
+    grid-template: repeat(7, 30px)  / auto auto auto auto;
+    justify-content: center;
+    gap: 5px;
+    width: 90vw;
     
+    position: absolute;
+    top: 60vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* .tituloListaPagamento{
+    grid-area: 1 / 1 / 1 / 5;
+} */
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border: none;
+    border-radius: 50px;
+    background-color: skyblue;
+    box-shadow: -2px 2px 0px whitesmoke;
+    width: max(10vh, 10vw);
+    /* text-shadow: -2px 2px 0px whitesmoke; */
+}
+
+
+
+/* .linksPagamento {
+    position: absolute;
+    display: grid;
+    grid-auto-flow: column;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     grid-template: repeat(8, 30px)  / auto auto auto auto;
     text-align: center;
-}
-.tituloListaPagamento{
-    grid-area: 1 / 1 / 1 / 5;
-}
+    gap: 10px;
+    width: 90vw;
+} */
