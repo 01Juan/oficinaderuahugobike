@@ -19,7 +19,7 @@ body {
 }
 
 .imgteste {
-   background-image: url("./imagens/14.png");
+   background-image: url("../imagens/14.png");
    background-repeat: no-repeat;
 
    background-size: min(90vh, 90vw);
