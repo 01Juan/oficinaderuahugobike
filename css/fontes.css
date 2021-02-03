@@ -21,10 +21,12 @@
 @font-face {
     font-family: 'monster-bike';
     src: url('../fontes/monster-bike.otf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
 }
 @font-face {
     font-family: 'OneDirection';
     src: url('../fontes/OneDirection.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
 }
 @font-face {
     font-family: 'Parisienne';
