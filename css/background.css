@@ -17,3 +17,17 @@ body {
    height: calc(100vh - 20px);
    width: calc(100vw - 20px);
 }
+
+.imgteste {
+   background-image: url("../imagens/(14).png");
+   background-repeat: no-repeat;
+
+   background-size: min(90vh, 90vw);
+   background-position: center;
+   opacity: .2;
+   
+   height: calc(100vh - 20px);
+   width: calc(100vw - 20px);
+   position: absolute;
+   z-index: 0;
+}
